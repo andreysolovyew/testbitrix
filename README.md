@@ -1,0 +1,2 @@
+# testbitrix
+test getlist
