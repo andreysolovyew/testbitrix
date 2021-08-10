@@ -1,0 +1,1 @@
+DROP TABLE mls_listbooks_author, mls_listbooks_publishing, mls_listbooks_book, mls_listbooks_authorbook;
